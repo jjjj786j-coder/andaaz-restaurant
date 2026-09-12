@@ -61,6 +61,7 @@ The gallery topic-reference images were refreshed on 2026-09-12 and downloaded l
 | Gallery item | Source | Permission/status |
 |---|---|---|
 | Chilled Rabri Lassi | `assets/images/ref-rabri-lassi.jpg`, sourced from [Wikimedia Commons — Rabidi lasi](https://commons.wikimedia.org/wiki/File:Rabidi_lasi.jpg) | CC BY-SA 3.0; attribution/share-alike terms apply; restaurant approval still needed if presented as an Andaaz dish |
+| Masala Chanp | `assets/images/ref-masala-chanp.jpg`, sourced from [Spice Time — Tandoori Mutton Chops](https://shop.spicetime.co.uk/products/tandoori-mutton-chops-1kg) | Topic-matched mutton-chops reference; third-party image reuse permission not confirmed |
 | Royal Shahi Tukra | `assets/images/ref-shahi-tukra.jpg`, sourced from [Wikimedia Commons — Shahi Tukda](https://commons.wikimedia.org/wiki/File:Shahi_Tukda_-_Dessert_of_India.jpg) | CC BY-SA 4.0; attribution/share-alike terms apply; restaurant approval still needed if presented as an Andaaz dish |
 | Live Courtyard Jalebi | `assets/images/ref-jalebi.jpg`, sourced from [Wikimedia Commons — Jalebi](https://commons.wikimedia.org/wiki/File:Jalebi.jpg) | CC BY-SA 2.0; attribution/share-alike terms apply; restaurant approval still needed if presented as an Andaaz dish |
 | Fresh Roghani Naan | `assets/images/ref-roghni-naan.jpg`, sourced from [Wikimedia Commons — Roghni Naan](https://commons.wikimedia.org/wiki/File:Roghni_Naan.jpg) | CC BY-SA 4.0; attribution/share-alike terms apply; restaurant approval still needed if presented as an Andaaz dish |

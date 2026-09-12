@@ -13,7 +13,7 @@ window.ANDAAZ_MENU = [
     price: 3250,
     portion: "4 Chops / Serving",
     description: "Double-cut mutton chops marinated overnight in crushed spices, ginger-garlic paste, and slow-roasted over live charcoal.",
-    image: "assets/images/food-placeholder.svg",
+    image: "assets/images/ref-masala-chanp.jpg",
     tags: ["mutton", "tandoori", "signature"],
     ingredients: "Prime mutton chops, raw papaya, coriander, cumin, black pepper, chili, ginger, garlic, mustard oil.",
     variants: [
@@ -84,7 +84,7 @@ window.ANDAAZ_MENU = [
     price: 3450,
     portion: "Full Karahi (Serves 2)",
     description: "Mutton cooked slowly in its own natural juices with coarse black pepper, tomatoes, and freshly pounded ginger.",
-    image: "assets/images/bhuna-gosht.jpg",
+    image: "assets/images/ref-slow-cooked-bhuna-gosht.jpg",
     tags: ["mutton", "spiced", "signature"],
     ingredients: "Fresh mutton, ginger julienne, garlic, tomatoes, black pepper, crushed coriander, green chili, desi ghee.",
     variants: [
@@ -136,7 +136,7 @@ window.ANDAAZ_MENU = [
     price: 2450,
     portion: "Serves 2",
     description: "Royal Mughlai chicken curry prepared with cashew nut paste, saffron, and gentle aromatic spices.",
-    image: "assets/images/nizami-murgh-kaju.jpg",
+    image: "assets/images/ref-nizami-murgh-kaju.jpg",
     tags: ["chicken", "creamy"],
     ingredients: "Chicken, cashew paste, onion, saffron, kewra water, cardamom, ghee.",
     variants: [
@@ -170,7 +170,7 @@ window.ANDAAZ_MENU = [
     price: 4250,
     portion: "Serves 2",
     description: "Fresh prawns toss-cooked in a high-fire wok with roasted tomatoes, fresh coriander, and ginger.",
-    image: "assets/images/jhinga-karahi.jpg",
+    image: "assets/images/ref-jhinga-karahi.jpg",
     tags: ["seafood", "prawns"],
     ingredients: "Fresh prawns, tomato concasse, garlic, green chilies, coriander, fenugreek leaves.",
     variants: [
@@ -205,7 +205,7 @@ window.ANDAAZ_MENU = [
     price: 250,
     portion: "1 Naan",
     description: "Fluffy tandoori bread brushed with pure ghee and sprinkled with white sesame seeds.",
-    image: "assets/images/roghani-naan.jpg",
+    image: "assets/images/ref-roghni-naan.jpg",
     tags: ["bread", "vegetarian"],
     ingredients: "Wheat flour, milk, ghee, white sesame seeds, yeast.",
     variants: [
@@ -221,7 +221,7 @@ window.ANDAAZ_MENU = [
     price: 850,
     portion: "250g Serving",
     description: "Crisp saffron syrup spirals, freshly prepared live at the courtyard tandoor and served piping hot.",
-    image: "assets/images/jalebi-garam.jpg",
+    image: "assets/images/ref-jalebi.jpg",
     tags: ["dessert", "sweet", "vegetarian"],
     ingredients: "Refined flour, saffron, cardamom, sugar syrup, ghee.",
     variants: [
@@ -271,7 +271,7 @@ window.ANDAAZ_MENU = [
     price: 520,
     portion: "Clay Mug (500ml)",
     description: "Chilled rich yogurt smoothie churned with rabri cream and topped with fresh malai.",
-    image: "assets/images/lahori-lassi.jpg",
+    image: "assets/images/ref-rabri-lassi.jpg",
     tags: ["beverage", "lassi", "chilled"],
     ingredients: "Fresh buffalo yogurt, milk, sugar, rabri cream, ice.",
     variants: [
