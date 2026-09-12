@@ -1008,10 +1008,11 @@ function initReservationForm() {
 
 const GALLERY_DATA = [
   { src: "assets/images/hero-rooftop.jpg", category: "interiors", title: "Rooftop Terrace Dining", caption: "Candlelit rooftop tables with direct panoramic views of Badshahi Masjid minarets." },
+  { src: "https://framerusercontent.com/images/aICYX2Ex61syRcyO70tyd6DWg.jpg?height=1350&width=1080", category: "interiors", title: "Official Rooftop View", caption: "Rooftop dining photograph published on the official Andaaz Restaurant website." },
+  { src: "https://framerusercontent.com/images/0G8eEWLIwWNxGLDHSGOCtpItCt0.jpg?height=3016&width=4528", category: "interiors", title: "The House Above Fort Road", caption: "Dining-space photograph published on the official Andaaz Restaurant website." },
   { src: "assets/images/dining-hall.jpg", category: "interiors", title: "Heritage Indoor Courtyard", caption: "Traditional Lahori architectural courtyard adorned with copper lanterns and carved woodwork." },
   { src: "assets/images/badshahi-night.jpg", category: "interiors", title: "Illuminated Night Panorama", caption: "Nighttime vista overlooking Badshahi Mosque illuminated against the night sky." },
   { src: "assets/images/rooftop-table.jpg", category: "interiors", title: "Sunset Dining Atmosphere", caption: "Golden hour seating at Andaaz Restaurant in the Walled City of Lahore." },
-  { src: "assets/images/food-placeholder.svg", category: "food", title: "Masala Chanp — image pending approval", caption: "Approved restaurant photography for this dish is pending." },
   { src: "assets/images/murgh-malai-tikka.jpg", category: "food", title: "Murgh Malai Tikka", caption: "Cream and cardamom infused chicken tenders skewered over charcoal." },
   { src: "assets/images/macchli-gulnar.jpg", category: "food", title: "Macchli Gulnar", caption: "Tamarind-glazed river fish fillet roasted over clay tandoor embers." },
   { src: "assets/images/paneer-tikka.jpg", category: "food", title: "Bewazni Paneer Tikka", caption: "House-made artisanal paneer cubes grilled with carom seeds and yellow mustard." },
@@ -1024,7 +1025,7 @@ const GALLERY_DATA = [
   { src: "assets/images/shahi-biryani.jpg", category: "food", title: "Mughlai Shahi Biryani", caption: "Fragrant saffron basmati rice layered with spiced mutton shank." },
   { src: "assets/images/roghani-naan.jpg", category: "food", title: "Fresh Roghani Naan", caption: "Hot tandoori flatbread sprinkled with white sesame seeds and butter." },
   { src: "assets/images/jalebi-garam.jpg", category: "food", title: "Live Courtyard Jalebi", caption: "Crisp saffron syrup spirals freshly prepared live at the terrace." },
-  { src: "assets/images/shahi-tukra.jpg", category: "drinks", title: "Royal Shahi Tukra", caption: "Artisanal fried bread soaked in saffron rabri and topped with slivered almonds." },
+  { src: "assets/images/shahi-tukra.jpg", category: "food", title: "Royal Shahi Tukra", caption: "Artisanal fried bread soaked in saffron rabri and topped with slivered almonds." },
   { src: "assets/images/peshawar-kehwa.jpg", category: "drinks", title: "Traditional Peshawar Kehwa", caption: "Green tea with cardamom pods served in hand-hammered brass kettles." },
   { src: "assets/images/lahori-lassi.jpg", category: "drinks", title: "Chilled Rabri Lassi", caption: "Classic Lahori yogurt drink served in chilled earthenware mugs." }
 ];

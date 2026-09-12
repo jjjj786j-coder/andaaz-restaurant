@@ -49,6 +49,13 @@ The following are optional and should be omitted when unavailable: reviews and q
 
 The home footer now links Instagram (`https://www.instagram.com/andaazrestaurantlahore/`) and Facebook (`https://www.facebook.com/AndaazRestaurant`) because those destinations are exposed by the restaurant's official website footer. Social account ownership and ongoing monitoring should still be confirmed before launch.
 
+The gallery includes two external image candidates published by the official website's Framer media host:
+
+- `https://framerusercontent.com/images/aICYX2Ex61syRcyO70tyd6DWg.jpg?height=1350&width=1080` — rooftop dining / official website source — permission not separately confirmed.
+- `https://framerusercontent.com/images/0G8eEWLIwWNxGLDHSGOCtpItCt0.jpg?height=3016&width=4528` — dining-space / official website source — permission not separately confirmed.
+
+These are relevant to the restaurant, but the restaurant should still approve reuse or supply original website assets before production launch.
+
 ## Release decision
 
 Coding changes can be previewed, but production approval, Zanderio installation, and claims of eligibility remain paused until the mandatory items above and essential image permissions are documented. No calls, messages, or emails should be sent without authorization.
