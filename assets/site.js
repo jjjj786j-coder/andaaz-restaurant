@@ -1016,18 +1016,18 @@ const GALLERY_DATA = [
   { src: "assets/images/murgh-malai-tikka.jpg", category: "food", title: "Murgh Malai Tikka", caption: "Cream and cardamom infused chicken tenders skewered over charcoal." },
   { src: "assets/images/macchli-gulnar.jpg", category: "food", title: "Macchli Gulnar", caption: "Tamarind-glazed river fish fillet roasted over clay tandoor embers." },
   { src: "assets/images/paneer-tikka.jpg", category: "food", title: "Bewazni Paneer Tikka", caption: "House-made artisanal paneer cubes grilled with carom seeds and yellow mustard." },
-  { src: "assets/images/bhuna-gosht.jpg", category: "food", title: "Slow-Cooked Bhuna Gosht", caption: "Heritage Lahori mutton karahi simmered slowly with ginger julienne." },
+  { src: "https://static.toiimg.com/photo/83711127.cms", category: "food", title: "Slow-Cooked Bhuna Gosht", caption: "Topic reference photograph from a published Bhuna Gosht recipe; not photographed at Andaaz Restaurant.", alt: "Slow-cooked bhuna gosht curry in a serving bowl", source: "https://recipes.timesofindia.com/bhuna-gosht/rs83711127.cms", permission: "Third-party editorial image; reuse permission not separately confirmed." },
   { src: "assets/images/murgh-kali-mirch.jpg", category: "food", title: "Murgh Kali Mirch", caption: "Boneless chicken simmered in velvet white cream gravy with Tellicherry black pepper." },
   { src: "assets/images/mutton-shank-achari.jpg", category: "food", title: "Mutton Shank Achari", caption: "Slow-braised mutton shanks infused with tangy homemade pickling spices." },
-  { src: "assets/images/nizami-murgh-kaju.jpg", category: "food", title: "Nizami Murgh Kaju", caption: "Royal Mughlai chicken curry prepared with rich cashew nut paste and saffron." },
+  { src: "https://cdn-food.tribune.com.pk/gallery/ejOvPWtWNcdmSEuvcXR09T8VPjMDxwK9vIEOsvqT.jpeg", category: "food", title: "Nizami Murgh Kaju", caption: "Topic reference photograph from a published Chicken Nizami recipe; not photographed at Andaaz Restaurant.", alt: "Nizami chicken curry with cashews and cream", source: "https://food.tribune.com.pk/en/recipe/chicken-nizami", permission: "Third-party editorial image; reuse permission not separately confirmed." },
   { src: "assets/images/tandoori-jhinga.jpg", category: "food", title: "Tandoori Ocean Jhinga", caption: "Flame-seared jumbo prawns tossed with garlic butter and chili." },
-  { src: "assets/images/jhinga-karahi.jpg", category: "food", title: "Fresh Jhinga Karahi", caption: "Prawns toss-cooked in a wok with roasted tomatoes, fresh coriander, and ginger." },
+  { src: "https://assets.zyrosite.com/cdn-cgi/image/format%3Dauto%2Cw%3D1440%2Ch%3D756%2Cfit%3Dcrop%2Cf%3Djpeg/mv0x9DpOPlh5eJ8M/screenshot-2024-02-02-at-11.02.34-am-ALpbDk0gyWtOw6r8.png", category: "food", title: "Fresh Jhinga Karahi", caption: "Topic reference photograph from a Karachi coastal-cuisine article; not photographed at Andaaz Restaurant.", alt: "Fresh jhinga karahi with prawns, tomato masala, coriander, and green chili", source: "https://karachikhatmal.com/why-karachis-indigenous-coastal-cuisine-finds-itself-on-the-margins", permission: "Third-party editorial image; reuse permission not separately confirmed." },
   { src: "assets/images/shahi-biryani.jpg", category: "food", title: "Mughlai Shahi Biryani", caption: "Fragrant saffron basmati rice layered with spiced mutton shank." },
-  { src: "assets/images/roghani-naan.jpg", category: "food", title: "Fresh Roghani Naan", caption: "Hot tandoori flatbread sprinkled with white sesame seeds and butter." },
-  { src: "assets/images/jalebi-garam.jpg", category: "food", title: "Live Courtyard Jalebi", caption: "Crisp saffron syrup spirals freshly prepared live at the terrace." },
-  { src: "assets/images/shahi-tukra.jpg", category: "food", title: "Royal Shahi Tukra", caption: "Artisanal fried bread soaked in saffron rabri and topped with slivered almonds." },
+  { src: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Roghni_Naan.jpg", category: "food", title: "Fresh Roghni Naan", caption: "Topic reference photograph of Roghni naan; not photographed at Andaaz Restaurant.", alt: "Fresh Roghni naan flatbreads stacked on a serving plate", source: "https://commons.wikimedia.org/wiki/File:Roghni_Naan.jpg", permission: "Wikimedia Commons CC BY-SA 4.0; attribution and share-alike terms apply." },
+  { src: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Jalebi.jpg", category: "food", title: "Live Courtyard Jalebi", caption: "Topic reference photograph of jalebi; not photographed at Andaaz Restaurant.", alt: "Fresh jalebi spirals on a green leaf", source: "https://commons.wikimedia.org/wiki/File:Jalebi.jpg", permission: "Wikimedia Commons CC BY-SA 2.0; attribution and share-alike terms apply." },
+  { src: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Shahi_Tukda_-_Dessert_of_India.jpg", category: "food", title: "Royal Shahi Tukra", caption: "Topic reference photograph of shahi tukda; not photographed at Andaaz Restaurant.", alt: "Royal shahi tukda dessert with creamy rabri and red garnish", source: "https://commons.wikimedia.org/wiki/File:Shahi_Tukda_-_Dessert_of_India.jpg", permission: "Wikimedia Commons CC BY-SA 4.0; attribution and share-alike terms apply." },
   { src: "assets/images/peshawar-kehwa.jpg", category: "drinks", title: "Traditional Peshawar Kehwa", caption: "Green tea with cardamom pods served in hand-hammered brass kettles." },
-  { src: "assets/images/lahori-lassi.jpg", category: "drinks", title: "Chilled Rabri Lassi", caption: "Classic Lahori yogurt drink served in chilled earthenware mugs." }
+  { src: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rabidi_lasi.jpg", category: "drinks", title: "Chilled Rabri Lassi", caption: "Topic reference photograph of rabri lassi; not photographed at Andaaz Restaurant.", alt: "Rabri lassi served in decorated glasses with rabri garnish", source: "https://commons.wikimedia.org/wiki/File:Rabidi_lasi.jpg", permission: "Wikimedia Commons CC BY-SA 3.0; attribution and share-alike terms apply." }
 ];
 
 function initGalleryPage() {
@@ -1069,7 +1069,7 @@ function renderGallery() {
       <div class="overflow-hidden bg-slate-100">
         <img 
           src="${img.src}" 
-          alt="${img.title} at Andaaz Restaurant" 
+          alt="${img.alt || `${img.title} reference photograph`}"
           width="600"
           height="400"
           loading="lazy"

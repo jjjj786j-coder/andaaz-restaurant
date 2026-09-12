@@ -56,6 +56,20 @@ The gallery includes two external image candidates published by the official web
 
 These are relevant to the restaurant, but the restaurant should still approve reuse or supply original website assets before production launch.
 
+The gallery topic-reference images were refreshed on 2026-09-12. They match the requested dish names, but they are not evidence that the dishes were photographed at Andaaz Restaurant:
+
+| Gallery item | Source | Permission/status |
+|---|---|---|
+| Chilled Rabri Lassi | [Wikimedia Commons — Rabidi lasi](https://commons.wikimedia.org/wiki/File:Rabidi_lasi.jpg) | CC BY-SA 3.0; attribution/share-alike terms apply; restaurant approval still needed if presented as an Andaaz dish |
+| Royal Shahi Tukra | [Wikimedia Commons — Shahi Tukda](https://commons.wikimedia.org/wiki/File:Shahi_Tukda_-_Dessert_of_India.jpg) | CC BY-SA 4.0; attribution/share-alike terms apply; restaurant approval still needed if presented as an Andaaz dish |
+| Live Courtyard Jalebi | [Wikimedia Commons — Jalebi](https://commons.wikimedia.org/wiki/File:Jalebi.jpg) | CC BY-SA 2.0; attribution/share-alike terms apply; restaurant approval still needed if presented as an Andaaz dish |
+| Fresh Roghani Naan | [Wikimedia Commons — Roghni Naan](https://commons.wikimedia.org/wiki/File:Roghni_Naan.jpg) | CC BY-SA 4.0; attribution/share-alike terms apply; restaurant approval still needed if presented as an Andaaz dish |
+| Fresh Jhinga Karahi | [Karachi Khatmal coastal-cuisine article](https://karachikhatmal.com/why-karachis-indigenous-coastal-cuisine-finds-itself-on-the-margins) | Third-party editorial image; reuse permission not confirmed |
+| Nizami Murgh Kaju | [Food Tribune — Chicken Nizami](https://food.tribune.com.pk/en/recipe/chicken-nizami) | Third-party editorial image; reuse permission not confirmed |
+| Slow-Cooked Bhuna Gosht | [Times of India — Bhuna Gosht](https://recipes.timesofindia.com/bhuna-gosht/rs83711127.cms) | Third-party editorial image; reuse permission not confirmed |
+
+These seven entries are labeled in their captions as topic reference photographs and are not described as photographs taken at Andaaz. Replace them with restaurant-supplied originals or obtain written reuse approval before production launch.
+
 ## Release decision
 
 Coding changes can be previewed, but production approval, Zanderio installation, and claims of eligibility remain paused until the mandatory items above and essential image permissions are documented. No calls, messages, or emails should be sent without authorization.
